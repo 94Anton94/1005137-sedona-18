@@ -5,5 +5,11 @@
 }
 
 .explain__addition {
-  line-height: 26px;
+  line-height: 24px;
+  min-width: 269px;
+}
+
+.explain__header {
+  max-width: 255px;
+  margin: 0 auto;
 }

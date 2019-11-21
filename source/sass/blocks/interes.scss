@@ -2,7 +2,7 @@
   font-size: 21px;
   line-height: 26px;
   font-weight: bold;
-  counter-reset: #000;
+  color: $black;
 }
 
 .interes__addition {
@@ -12,6 +12,11 @@
 .interes__btn {
   font-size: 21px;
   line-height: 26px;
-  color: #fff;
-  background-color: #81b3d2;
+  color: $white;
+  background-color: $blue;
+  padding-top: 17px;
+  padding-bottom: 19px;
+  padding-left: 47px;
+  padding-right: 47px;
+  text-transform: uppercase;
 }

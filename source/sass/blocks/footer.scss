@@ -1,5 +1,12 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .copyright__text {
-  color: #000;
+  color: $black;
 }
 
 .footer-visits {

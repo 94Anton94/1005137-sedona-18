@@ -1,3 +1,21 @@
 .photo {
   background-color: grey;
+  margin-top: 22px;
+}
+
+.photos__slogan {
+  line-height: 24px;
+}
+
+.photos_autor {
+  line-height: 24px;
+}
+
+.photos ul {
+  list-style: none;
+  text-align: left;
+}
+
+.photos li {
+  border: 1px solid $black;
 }

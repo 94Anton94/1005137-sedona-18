@@ -1,13 +1,16 @@
-@import './blocks/layout';
-@import './blocks/body.scss';
-@import './blocks/header.scss';
-@import './blocks/main-nav.scss';
-@import './blocks/site-list.scss';
-@import './blocks/intro.scss';
-@import './blocks/explain.scss';
-@import './blocks/advantages.scss';
-@import './blocks/features.scss';
-@import './blocks/interes.scss';
-@import './blocks/photos';
-
-@import './blocks/footer.scss';
+//variables
+@import "./variables/variables.scss";
+//blocks
+@import "./blocks/layout.scss";
+@import "./blocks/body.scss";
+@import "./blocks/header.scss";
+@import "./blocks/main.scss";
+@import "./blocks/main-nav.scss";
+@import "./blocks/site-list.scss";
+@import "./blocks/intro.scss";
+@import "./blocks/explain.scss";
+@import "./blocks/advantages.scss";
+@import "./blocks/features.scss";
+@import "./blocks/interes.scss";
+@import "./blocks/photos.scss";
+@import "./blocks/footer.scss";
